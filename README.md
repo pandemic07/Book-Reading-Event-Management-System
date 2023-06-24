@@ -2,15 +2,15 @@
 
 Application to manage book-reading events, in a geographical location with single timezone. Details needed from the API:
     
-    1.New users can login/signup.
-    2.Users can create events and invite other existing users.
-    3.Events can be public or private (only invited users can attend/view) events.
-    4.User can view all the events, but past events are shown differently.
-    5.User can filter all events, they are invited to(private events).
-    6.User can filter the events  with filter(private, public, ongoing, past, upcoming).
-    7.User can edit an event. 
-    8.Users can delete the events created by them, (conditional delete: only future events).
-    9.Admin user can view or filter or  edit /delete  any events.
+        1.New users can login/signup.
+        2.Users can create events and invite other existing users.
+        3.Events can be public or private (only invited users can attend/view) events.
+        4.User can view all the events, but past events are shown differently.
+        5.User can filter all events, they are invited to(private events).
+        6.User can filter the events  with filter(private, public, ongoing, past, upcoming).
+        7.User can edit an event. 
+        8.Users can delete the events created by them, (conditional delete: only future events).
+        9.Admin user can view or filter or  edit /delete  any events.
 
     
     
